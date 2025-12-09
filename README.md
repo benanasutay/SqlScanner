@@ -1,6 +1,6 @@
 # 🛡️ SQL Scanner
 
-**Advanced SQL Injection Scanner** featuring hybrid detection (Dynamic Fuzzing + Dictionary), WAF bypass techniques, and support for both GET/POST requests.
+**SQL Injection Scanner** featuring hybrid detection (Dynamic Fuzzing + Dictionary), WAF bypass techniques, and support for both GET/POST requests.
 
 ## 🚀 Features
 * **Hybrid Engine:** Combines heuristic logic checking with dictionary-based attacks.
